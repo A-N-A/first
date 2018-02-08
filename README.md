@@ -1,2 +1,15 @@
-# first
-8/6/18
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+  <?<php>
+    
+      echo "hello world";
+        
+  ?>
+    
+</body>
+</html>     
